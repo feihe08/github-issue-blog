@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Create An Issue Blog",
+        "command": "github-issue-blog:create-issue"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Github-issue-blog",
+          "submenu": [
+            {
+              "label": "Create An Issue Blog",
+              "command": "github-issue-blog:create-issue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
