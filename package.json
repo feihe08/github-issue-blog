@@ -1,9 +1,13 @@
 {
   "name": "github-issue-blog",
   "main": "./lib/github-issue-blog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An atom plugin to help creating an issue to a configured github repo, it is useful if you put the issues as a blog",
-  "keywords": ["github", "issue", "blog"],
+  "keywords": [
+    "github",
+    "issue",
+    "blog"
+  ],
   "activationCommands": {
     "atom-workspace": "github-issue-blog:create-issue"
   },
