@@ -7,7 +7,10 @@
   "activationCommands": {
     "atom-workspace": "github-issue-blog:create-issue"
   },
-  "repository": "https://github.com/atom/github-issue-blog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hefei00/github-issue-blog.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
