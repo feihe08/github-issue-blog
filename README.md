@@ -5,7 +5,6 @@ An atom plugin to help creating an issue to a configured github repo, it is usef
 Github issue is a good place to write blog. So I write the plugin to help publishing a blog to the issue. And it is very easy to use--`ctrl-alt-i`. And the plugin will create an issue According to the config.
 
 
-
 ## How to use
 
 `ctrl-alt-i`
